@@ -14,8 +14,10 @@ Sou apaixonado por aprendizado contínuo e sempre procuro novos desafios para ap
 
 ## 🌱 Atualmente estudando
 - Ciência de Dados
+- Desenvolvimento Frontend/Backend
 - Machine Learning
 - Engenharia de Dados
+- Banco de Dados
 
 <div align="left>
   <a href="https://github.com/vicgopfert">
