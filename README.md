@@ -36,7 +36,7 @@ Sou apaixonado por aprendizado contínuo e sempre procuro novos desafios para ap
   <img align="center" alt="Victor-VSCode" height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div> <br>
 
-## 📫 Contato
+## 📫 Rede
 <div>
    <a href="https://www.linkedin.com/in/victor-gopfert-5758292bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
