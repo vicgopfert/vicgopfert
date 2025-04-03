@@ -7,7 +7,7 @@ Tenho uma sólida experiência em Desenvolvimento Full Stack e agora busco me es
 Sou apaixonado por aprendizado contínuo e sempre procuro novos desafios para aprimorar minhas habilidades e contribuir em projetos inovadores.
 
 ## 🔧 Tecnologias e Ferramentas
-- **Linguagens**: Python, JavaScript, C, SQL
+- **Linguagens**: Python, JavaScript, C#, SQL
 - **Web Design**: Node.js, React.js, Javascript, HTML, CSS
 - **Banco de Dados**: PostgreSQL, MySQL
 - **Frameworks**: Bootstrap, Pandas
@@ -15,9 +15,9 @@ Sou apaixonado por aprendizado contínuo e sempre procuro novos desafios para ap
 
 ## 🌱 Atualmente estudando
 - Desenvolvimento Frontend/Backend
-- Machine Learning
 - Engenharia de Dados
 - Banco de Dados
+- C# e OO
 
 <div align="left>
   <a href="https://github.com/vicgopfert">
