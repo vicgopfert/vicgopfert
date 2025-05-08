@@ -2,8 +2,6 @@
 
 👋 Olá! Eu sou **Victor Gopfert**, estudante de Análise e Desenvolvimento de Sistemas na UERJ e estagiário de Desenvolvimento Full Stack em DETRO/RJ.
 
-Tenho uma sólida experiência em Desenvolvimento Full Stack e agora busco me especializar em Engenharia de Dados. Meu objetivo é aplicar meus conhecimentos técnicos para projetar, construir e otimizar pipelines de dados robustos, integrando e transformando informações de diversas fontes. Desejo criar soluções que possibilitem análises avançadas e extração de insights estratégicos, contribuindo para a tomada de decisões fundamentadas e o crescimento sustentável da organização.
-
 ## 🔧 Tecnologias e Ferramentas
 - **Linguagens**: Python, JavaScript, C#, SQL, Java
 - **Web Design**: Node.js, React.js, Javascript, HTML, CSS
