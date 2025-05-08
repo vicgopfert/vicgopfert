@@ -7,11 +7,11 @@ Tenho uma sólida experiência em Desenvolvimento Full Stack e agora busco me es
 Sou apaixonado por aprendizado contínuo e sempre procuro novos desafios para aprimorar minhas habilidades e contribuir em projetos inovadores.
 
 ## 🔧 Tecnologias e Ferramentas
-- **Linguagens**: Python, JavaScript, C#, SQL
+- **Linguagens**: Python, JavaScript, C#, SQL, Java
 - **Web Design**: Node.js, React.js, Javascript, HTML, CSS
 - **Banco de Dados**: PostgreSQL, MySQL
 - **Frameworks**: Bootstrap, Pandas
-- **Ferramentas**: VSCode, Git, Google Colab, Jupyter Notebook
+- **Ferramentas**: VSCode, Git, Google Colab, Jupyter Notebook, Visual Studio 2022
 
 ## 🌱 Atualmente estudando
 - Desenvolvimento Frontend/Backend
