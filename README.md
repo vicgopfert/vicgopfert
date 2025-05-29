@@ -4,7 +4,7 @@
 
 ## 🔧 Tecnologias e Ferramentas
 - **Linguagens**: Python, JavaScript, C#, SQL, Java
-- **Web Design**: Node.js, React.js, TypeScript Javascript, HTML, CSS
+- **Web Design**: Node.js, React.js, TypeScript, Javascript, HTML, CSS
 - **Banco de Dados**: PostgreSQL, MySQL
 - **Frameworks**: Bootstrap, Pandas
 - **Ferramentas**: VSCode, Git, Google Colab, Jupyter Notebook, Visual Studio 2022
