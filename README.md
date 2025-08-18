@@ -3,7 +3,7 @@
 👋 Olá! Eu sou **Victor Gopfert**, estudante de Análise e Desenvolvimento de Sistemas na UERJ e estagiário de Desenvolvimento Full Stack em DETRO/RJ.
 
 ## 🔧 Tecnologias e Ferramentas
-- **Linguagens**: Python, JavaScript, C#, SQL, Java
+- **Linguagens**: JavaScript, C#, SQL, Python, Java
 - **Web Development**: Node.js, React.js, TypeScript, Javascript, Next.js 
 - **Banco de Dados**: PostgreSQL, MySQL, MongoBD
 - **Frameworks**: Shadcn, Better Auth, Pandas
@@ -23,13 +23,12 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-VSCode" height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Victor-VSCode" height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original.svg">
+  <img align="center" alt="Victor-VSCode" height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/next/next-original.svg">
   <img align="center" alt="Victor-HTML" height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Victor-CSS" height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Victor-JS" height="40" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Victor-Python" height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Victor-C" height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Victor-Bootstrap" height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Victor-Pandas" height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="Victor-Git" height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Victor-VSCode" height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div> <br>
