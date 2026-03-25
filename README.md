@@ -65,6 +65,4 @@ Se quiser trocar uma ideia, colaborar ou tirar alguma dúvida, fique à vontade 
 ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 
-<h2>🚀 &nbsp;Minhas estatísticas no GitHub</h2>
 
-![Victor Gopfert GitHub Stats](https://github-readme-stats.vercel.app/api?username=vicgopfert&show_icons=true&theme=dracula)
