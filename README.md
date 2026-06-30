@@ -133,15 +133,15 @@ Exploring software architecture, design patterns and testing.
 <table width="100%">
 <tr>
 <td width="160px" valign="top">
-  <img src="assets/icon-link.png" width="130px"/>
+  <img src="assets/tomorrow.jpg" width="130px"/>
 </td>
 <td valign="top">
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+<a href="https://www.linkedin.com/in/victor-gopfert-5758292bb/">
   <img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge">
 </a>
 <br><br>
-<a href="mailto:seuemail@exemplo.com">
+<a href="gopfert.web@gmail.com">
   <img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge">
 </a>
 
