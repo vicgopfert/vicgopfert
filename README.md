@@ -1,68 +1,192 @@
-<h1>👋 &nbsp;Olá, eu sou o Victor Gopfert, um desenvolvedor Full Stack apaixonado por tecnologia!</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/victor-gopfert-5758292bb/">
-    <img src="https://img.shields.io/badge/-Meu%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:gopfert.web@gmail.com">
-    <img src="https://img.shields.io/badge/-Meu%20gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/vicgopfert">
-    <img src="https://img.shields.io/badge/-Meu%20GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-</p>
+# BRIDGES TERMINAL
 
-<h2> 👨🏻‍💻 &nbsp;Sobre mim </h2>
+```text
+CHIRAL NETWORK CONNECTION ESTABLISHED
 
-Sou um desenvolvedor de software focado em **desenvolvimento Full Stack**, apaixonado por criar aplicações modernas, bem estruturadas e com código limpo. Tenho forte interesse em arquitetura, boas práticas e em como a tecnologia pode resolver problemas reais de forma simples e eficiente.
+PORTER ID : VGF-021
+STATUS    : ONLINE
+MISSION   : CONNECTING SOFTWARE
+```
 
-Meu interesse por programação começou cedo, muito influenciado por **video games**. A curiosidade por sistemas, interfaces, experiências interativas e lógica por trás dos jogos foi o que me levou a dar meus primeiros passos no desenvolvimento de software. Desde então, sigo estudando e evoluindo constantemente como desenvolvedor.
+</div>
 
-Busco sempre aprimorar minhas habilidades técnicas, entender o “porquê” por trás das decisões de arquitetura e escrever código cada vez mais claro, organizado e sustentável.
+---
 
-<h2> 🎓 &nbsp;Aprendizado contínuo </h2>
+# PORTER IDENTIFICATION
 
-Atualmente curso **Tecnologia em Análise e Desenvolvimento de Sistemas** pela **Universidade do Estado do Rio de Janeiro (UERJ)**, onde venho consolidando fundamentos importantes de programação, bancos de dados e engenharia de software.
+```bash
+> booting porter profile...
 
-Além da formação acadêmica, acredito muito no aprendizado contínuo através da prática. Estou sempre estudando novas tecnologias, explorando ferramentas modernas do ecossistema JavaScript e desenvolvendo projetos pessoais para aplicar conceitos como organização de código, padrões de arquitetura e boas práticas.
+> synchronizing chiral network...
 
-Aprender constantemente faz parte da minha rotina — tanto estudando quanto colocando a mão no código.
+> loading personnel file...
+```
 
-<h2> 📚 &nbsp;O que você vai encontrar aqui?</h2>
+**Name**
 
-Este GitHub representa minha evolução como desenvolvedor e meu compromisso com código de qualidade. Aqui você vai encontrar:
+Victor Gopfert
 
-- Projetos Full Stack para estudo e prática
-- Aplicações com foco em organização e clareza de código
-- Uso de boas práticas e arquitetura modular
-- Experimentos, estudos técnicos e provas de conceito
-- Projetos voltados tanto para front-end quanto para back-end
+**Role**
 
-Se quiser trocar uma ideia, colaborar ou tirar alguma dúvida, fique à vontade para entrar em contato pelo  
-<a href="mailto:gopfert.web@gmail.com">email</a> ou pelo <a href="https://www.linkedin.com/in/victor-gopfert-5758292bb/">LinkedIn</a>.
+Full Stack Software Engineer
 
-<h2> 🛠 &nbsp;Stack de Tecnologias</h2>
+**Location**
 
-<h3>💻 &nbsp;Front-end:</h3>
+Rio de Janeiro, Brazil
 
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
-![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-333333?style=flat)
-![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-333333?style=flat)
-![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-333333?style=flat)
-![Zod](https://img.shields.io/badge/-Zod-333333?style=flat)
+**Education**
 
-<h3>⚙️ &nbsp;Back-end & Bancos de Dados:</h3>
+B.Sc. in Systems Analysis and Development — UERJ
 
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+**Current Status**
 
+Building modern software focused on clean architecture,
+scalability and long-term maintainability.
 
+---
+
+# PERSONNEL LOG
+
+Software Engineer passionate about designing applications that are reliable, maintainable and built to solve real-world problems.
+
+My interest in software started through video games, driven by curiosity about the systems, mechanics and logic behind interactive experiences. That curiosity eventually became a passion for software engineering.
+
+Today I focus on building full stack applications using modern technologies, following clean code principles, software architecture and development best practices.
+
+Every project is another delivery.
+Every challenge is another connection.
+
+---
+
+# STANDARD LOADOUT
+
+### Front-end
+
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- Tailwind CSS
+- shadcn/ui
+- Framer Motion
+
+### Back-end
+
+- Node.js
+- NestJS
+- PostgreSQL
+- Prisma
+- REST APIs
+
+### Engineering Tools
+
+- Git
+- GitHub
+- Docker
+- Jest
+
+```bash
+> Equipment verified.
+> Ready for next delivery.
+```
+
+---
+
+# ACTIVE DELIVERIES
+
+### Cargo DS-001
+
+**Project**
+
+Authentication API
+
+**Status**
+
+Delivered
+
+**Objective**
+
+Secure authentication using modern backend architecture.
+
+---
+
+### Cargo DS-002
+
+**Project**
+
+Full Stack Applications
+
+**Status**
+
+In Progress
+
+**Objective**
+
+Building scalable web applications using React, Next.js and NestJS.
+
+---
+
+### Cargo DS-003
+
+**Project**
+
+Personal Studies
+
+**Status**
+
+Always Active
+
+**Objective**
+
+Exploring software architecture, design patterns, testing and new technologies.
+
+---
+
+# CHIRAL NETWORK STATUS
+
+```text
+Connection Quality
+
+███████████████████ 100%
+
+Synchronization
+
+████████████████░░ 92%
+
+Current Objective
+
+Become a Software Engineer capable of designing
+robust, scalable and maintainable systems.
+```
+
+( GitHub Stats will be synchronized here. )
+
+---
+
+# BRIDGE LINKS
+
+- LinkedIn
+- GitHub
+- Email
+
+```bash
+> communication channel established.
+```
+
+---
+
+# SYSTEM LOG
+
+```bash
+> saving porter activity...
+
+> all deliveries synchronized.
+
+> connection maintained.
+
+Keep on keeping on.
+```
