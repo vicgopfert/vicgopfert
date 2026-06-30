@@ -87,7 +87,8 @@ Every repository is a relay station. Every commit, another step across the chira
 <table width="100%">
 <tr>
 <td width="160px" valign="top">
-  <img src="assets/icon-cargo.png" width="130px"/>
+  <img src="assets/equipment.gif" width="130px"/>
+  <img src="assets/delivery.gif" width="130px"/>
 </td>
 <td valign="top">
 
