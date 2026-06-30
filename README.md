@@ -18,14 +18,50 @@ MISSION   : CONNECTING SOFTWARE
 
 ---
 
-# PORTER IDENTIFICATION
+## PORTER IDENTIFICATION
+
+<table width="100%">
+<tr>
+
+<td width="280px" valign="top">
+
+```text
+┌───────────────────────────────┐
+│            BRIDGES            │
+├───────────────────────────────┤
+```
+```text
+├───────────────────────────────┤
+│ PORTER ID                     │
+│ VGF-021                       │
+│                               │
+│ NAME                          │
+│ Victor Gopfert                │
+│                               │
+│ SPECIALIZATION                │
+│ Software Engineering          │
+│                               │
+│ STATUS                        │
+│ ● ONLINE                      │
+│                               │
+│ CLEARANCE                     │
+│ LEVEL II                      │
+│                               │
+│ CHIRAL LINK                   │
+│ STABLE                        │
+└───────────────────────────────┘
+```
+
+</td>
+
+<td valign="top">
 
 ```bash
-> booting porter profile...
+> Establishing Chiral Network...
 
-> synchronizing chiral network...
+> Synchronizing porter profile...
 
-> loading personnel file...
+> Connection established.
 ```
 
 **Name**
