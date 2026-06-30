@@ -55,7 +55,7 @@ Every repository is a relay station. Every commit, another step across the chira
 <table width="100%">
 <tr>
 <td width="160px" valign="top">
-  <img src="assets/icon-tools.png" width="130px"/>
+  <img src="assets/hands.jpg" width="130px"/>
 </td>
 <td valign="top">
 
