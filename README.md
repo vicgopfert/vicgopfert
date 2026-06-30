@@ -92,16 +92,16 @@ Every repository is a relay station. Every commit, another step across the chira
 </td>
 <td valign="top">
 
-**[Authentication API](https://github.com/seu-usuario/seu-repo)** &nbsp; <img src="https://img.shields.io/badge/STATUS-DELIVERED-1a1a1a?style=flat-square">
-Secure authentication built with modern backend architecture.
+**[Finance App API](https://github.com/vicgopfert/finance-app-api)** &nbsp; <img src="https://img.shields.io/badge/STATUS-DELIVERED-1a1a1a?style=flat-square">
+Backend API for personal finance management, built with Node.js and Prisma ORM, containerized with Docker and covered by automated tests with Jest.
 <br>
 
-**[Full Stack Applications](https://github.com/seu-usuario/seu-repo)** &nbsp; <img src="https://img.shields.io/badge/STATUS-IN%20TRANSIT-1a1a1a?style=flat-square">
-Scalable web applications using React, Next.js and NestJS.
+**[Bewear (Bootcamp Project)](https://github.com/vicgopfert/bewear-bootcamp)** &nbsp; <img src="https://img.shields.io/badge/STATUS-DELIVERED-1a1a1a?style=flat-square">
+Full stack e-commerce application built during an intensive bootcamp, using Next.js, TypeScript and Drizzle ORM, with authentication and deployment on Vercel.
 <br>
 
-**Personal Studies** &nbsp; <img src="https://img.shields.io/badge/STATUS-ALWAYS%20ACTIVE-1a1a1a?style=flat-square">
-Exploring software architecture, design patterns and testing.
+**[Habit Tracker](https://github.com/vicgopfert/habit-tracker)** &nbsp; <img src="https://img.shields.io/badge/STATUS-IN%20TRANSIT-1a1a1a?style=flat-square">
+Web application for tracking daily habits and routines, built with Laravel (PHP) and Blade.
 
 > Stay sharp. One disconnection can cost the mission.
 
@@ -119,7 +119,7 @@ Exploring software architecture, design patterns and testing.
 <tr>
 <td valign="top">
 <br><br>
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=vicgopfert&theme=dark" />
 </td>
 </tr>
 </table>
@@ -141,7 +141,7 @@ Exploring software architecture, design patterns and testing.
   <img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge">
 </a>
 <br><br>
-<a href="gopfert.web@gmail.com">
+<a href="mailto:gopfert.web@gmail.com">
   <img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge">
 </a>
 
