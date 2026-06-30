@@ -4,12 +4,12 @@
 
 <h2 align="center">BRIDGES TERMINAL</h2>
 <p align="center">
-  ⛓ Chiral Network Node // Full Stack Software Engineering
+  ⛓ Chiral Network Node // Software Development Trainee — PRODERJ
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/UCA%20STATUS-CONNECTED-1a1a1a?style=for-the-badge&labelColor=000000">
-  <img src="https://img.shields.io/badge/PORTER%20GRADE-LEGEND-1a1a1a?style=for-the-badge&labelColor=000000">
+  <img src="https://img.shields.io/badge/PORTER%20GRADE-TRAINEE-1a1a1a?style=for-the-badge&labelColor=000000">
   <img src="https://img.shields.io/badge/REGION-RIO%20DE%20JANEIRO-1a1a1a?style=for-the-badge&labelColor=000000">
 </p>
 
@@ -34,11 +34,13 @@
 > porter profile access granted
 ```
 
-Software Engineer based in Rio de Janeiro, Brazil — delivering code across the network the same way a Porter delivers cargo: with care, precision and zero tolerance for broken connections.
+Systems Analysis and Development student (UERJ) and Software Development Trainee at PRODERJ, contributing to technology solutions for the public sector.
 
-Focused on Full Stack Development, Clean Architecture and Scalable Systems. B.Sc. in Systems Analysis and Development — UERJ.
+Previously spent over a year at DETRO/RJ developing web systems with React.js, Node.js and PostgreSQL — including building an intranet and a corporate system from scratch, plus refactoring the backend to NestJS for greater scalability.
 
-Every repository is a relay station. Every commit, another step across the chiral network.
+Member of the Full Stack Club, deepening knowledge in Next.js, React, Node.js, TypeScript, Docker and software architecture.
+
+Every delivery is a connection: each system built brings people and processes closer together, the same way a Porter connects isolated points across the network.
 
 > "Keep on keeping on."
 
